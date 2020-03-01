@@ -1,0 +1,50 @@
+D:\Учёба\3 курс\2 семестр\Защита информации и надёжность систем\КП\BWTVisualisation\BWTVisualisation\obj\Debug\BWTVisualisation.csprojAssemblyReference.cache
+D:\Учёба\3 курс\2 семестр\Защита информации и надёжность систем\КП\BWTVisualisation\BWTVisualisation\obj\Debug\MainWindow.g.cs
+D:\Учёба\3 курс\2 семестр\Защита информации и надёжность систем\КП\BWTVisualisation\BWTVisualisation\obj\Debug\App.g.cs
+D:\Учёба\3 курс\2 семестр\Защита информации и надёжность систем\КП\BWTVisualisation\BWTVisualisation\obj\Debug\BWTVisualisation_MarkupCompile.cache
+D:\Учёба\3 курс\2 семестр\Защита информации и надёжность систем\КП\BWTVisualisation\BWTVisualisation\obj\Debug\BWTVisualisation_MarkupCompile.lref
+D:\Учёба\3 курс\2 семестр\Защита информации и надёжность систем\КП\BWTVisualisation\BWTVisualisation\bin\Debug\BWTVisualisation.exe.config
+D:\Учёба\3 курс\2 семестр\Защита информации и надёжность систем\КП\BWTVisualisation\BWTVisualisation\bin\Debug\BWTVisualisation.exe
+D:\Учёба\3 курс\2 семестр\Защита информации и надёжность систем\КП\BWTVisualisation\BWTVisualisation\bin\Debug\BWTVisualisation.pdb
+D:\Учёба\3 курс\2 семестр\Защита информации и надёжность систем\КП\BWTVisualisation\BWTVisualisation\obj\Debug\MainWindow.baml
+D:\Учёба\3 курс\2 семестр\Защита информации и надёжность систем\КП\BWTVisualisation\BWTVisualisation\obj\Debug\BWTVisualisation.g.resources
+D:\Учёба\3 курс\2 семестр\Защита информации и надёжность систем\КП\BWTVisualisation\BWTVisualisation\obj\Debug\BWTVisualisation.Properties.Resources.resources
+D:\Учёба\3 курс\2 семестр\Защита информации и надёжность систем\КП\BWTVisualisation\BWTVisualisation\obj\Debug\BWTVisualisation.csproj.GenerateResource.cache
+D:\Учёба\3 курс\2 семестр\Защита информации и надёжность систем\КП\BWTVisualisation\BWTVisualisation\obj\Debug\BWTVisualisation.csproj.CoreCompileInputs.cache
+D:\Учёба\3 курс\2 семестр\Защита информации и надёжность систем\КП\BWTVisualisation\BWTVisualisation\obj\Debug\BWTVisualisation.exe
+D:\Учёба\3 курс\2 семестр\Защита информации и надёжность систем\КП\BWTVisualisation\BWTVisualisation\obj\Debug\BWTVisualisation.pdb
+D:\Учёба\3 курс\2 семестр\Защита информации и надёжность систем\КП\BWTVisualisation\BWTVisualisation\obj\Debug\FlatStyle.baml
+D:\Учёба\3 курс\2 семестр\Защита информации и надёжность систем\КП\BWTVisualisation\BWTVisualisation\obj\Debug\App.baml
+D:\Учёба\3 курс\2 семестр\Защита информации и надёжность систем\КП\КП Бобра Дмитрия\BWTVisualisation\BWTVisualisation\bin\Debug\BWTVisualisation.exe.config
+D:\Учёба\3 курс\2 семестр\Защита информации и надёжность систем\КП\КП Бобра Дмитрия\BWTVisualisation\BWTVisualisation\bin\Debug\BWTVisualisation.exe
+D:\Учёба\3 курс\2 семестр\Защита информации и надёжность систем\КП\КП Бобра Дмитрия\BWTVisualisation\BWTVisualisation\bin\Debug\BWTVisualisation.pdb
+D:\Учёба\3 курс\2 семестр\Защита информации и надёжность систем\КП\КП Бобра Дмитрия\BWTVisualisation\BWTVisualisation\obj\Debug\BWTVisualisation.csprojAssemblyReference.cache
+D:\Учёба\3 курс\2 семестр\Защита информации и надёжность систем\КП\КП Бобра Дмитрия\BWTVisualisation\BWTVisualisation\obj\Debug\MainWindow.g.cs
+D:\Учёба\3 курс\2 семестр\Защита информации и надёжность систем\КП\КП Бобра Дмитрия\BWTVisualisation\BWTVisualisation\obj\Debug\App.g.cs
+D:\Учёба\3 курс\2 семестр\Защита информации и надёжность систем\КП\КП Бобра Дмитрия\BWTVisualisation\BWTVisualisation\obj\Debug\BWTVisualisation_MarkupCompile.cache
+D:\Учёба\3 курс\2 семестр\Защита информации и надёжность систем\КП\КП Бобра Дмитрия\BWTVisualisation\BWTVisualisation\obj\Debug\BWTVisualisation_MarkupCompile.lref
+D:\Учёба\3 курс\2 семестр\Защита информации и надёжность систем\КП\КП Бобра Дмитрия\BWTVisualisation\BWTVisualisation\obj\Debug\App.baml
+D:\Учёба\3 курс\2 семестр\Защита информации и надёжность систем\КП\КП Бобра Дмитрия\BWTVisualisation\BWTVisualisation\obj\Debug\FlatStyle.baml
+D:\Учёба\3 курс\2 семестр\Защита информации и надёжность систем\КП\КП Бобра Дмитрия\BWTVisualisation\BWTVisualisation\obj\Debug\MainWindow.baml
+D:\Учёба\3 курс\2 семестр\Защита информации и надёжность систем\КП\КП Бобра Дмитрия\BWTVisualisation\BWTVisualisation\obj\Debug\BWTVisualisation.g.resources
+D:\Учёба\3 курс\2 семестр\Защита информации и надёжность систем\КП\КП Бобра Дмитрия\BWTVisualisation\BWTVisualisation\obj\Debug\BWTVisualisation.Properties.Resources.resources
+D:\Учёба\3 курс\2 семестр\Защита информации и надёжность систем\КП\КП Бобра Дмитрия\BWTVisualisation\BWTVisualisation\obj\Debug\BWTVisualisation.csproj.GenerateResource.cache
+D:\Учёба\3 курс\2 семестр\Защита информации и надёжность систем\КП\КП Бобра Дмитрия\BWTVisualisation\BWTVisualisation\obj\Debug\BWTVisualisation.csproj.CoreCompileInputs.cache
+D:\Учёба\3 курс\2 семестр\Защита информации и надёжность систем\КП\КП Бобра Дмитрия\BWTVisualisation\BWTVisualisation\obj\Debug\BWTVisualisation.exe
+D:\Учёба\3 курс\2 семестр\Защита информации и надёжность систем\КП\КП Бобра Дмитрия\BWTVisualisation\BWTVisualisation\obj\Debug\BWTVisualisation.pdb
+G:\Учёба\2 курс\3 сем\КП\КП Бобра Дмитрия\BWTVisualisation\BWTVisualisation\bin\Debug\BWTVisualisation.exe.config
+G:\Учёба\2 курс\3 сем\КП\КП Бобра Дмитрия\BWTVisualisation\BWTVisualisation\bin\Debug\BWTVisualisation.exe
+G:\Учёба\2 курс\3 сем\КП\КП Бобра Дмитрия\BWTVisualisation\BWTVisualisation\bin\Debug\BWTVisualisation.pdb
+G:\Учёба\2 курс\3 сем\КП\КП Бобра Дмитрия\BWTVisualisation\BWTVisualisation\obj\Debug\BWTVisualisation.csprojAssemblyReference.cache
+G:\Учёба\2 курс\3 сем\КП\КП Бобра Дмитрия\BWTVisualisation\BWTVisualisation\obj\Debug\MainWindow.g.cs
+G:\Учёба\2 курс\3 сем\КП\КП Бобра Дмитрия\BWTVisualisation\BWTVisualisation\obj\Debug\App.g.cs
+G:\Учёба\2 курс\3 сем\КП\КП Бобра Дмитрия\BWTVisualisation\BWTVisualisation\obj\Debug\BWTVisualisation_MarkupCompile.cache
+G:\Учёба\2 курс\3 сем\КП\КП Бобра Дмитрия\BWTVisualisation\BWTVisualisation\obj\Debug\BWTVisualisation_MarkupCompile.lref
+G:\Учёба\2 курс\3 сем\КП\КП Бобра Дмитрия\BWTVisualisation\BWTVisualisation\obj\Debug\App.baml
+G:\Учёба\2 курс\3 сем\КП\КП Бобра Дмитрия\BWTVisualisation\BWTVisualisation\obj\Debug\FlatStyle.baml
+G:\Учёба\2 курс\3 сем\КП\КП Бобра Дмитрия\BWTVisualisation\BWTVisualisation\obj\Debug\MainWindow.baml
+G:\Учёба\2 курс\3 сем\КП\КП Бобра Дмитрия\BWTVisualisation\BWTVisualisation\obj\Debug\BWTVisualisation.g.resources
+G:\Учёба\2 курс\3 сем\КП\КП Бобра Дмитрия\BWTVisualisation\BWTVisualisation\obj\Debug\BWTVisualisation.Properties.Resources.resources
+G:\Учёба\2 курс\3 сем\КП\КП Бобра Дмитрия\BWTVisualisation\BWTVisualisation\obj\Debug\BWTVisualisation.csproj.GenerateResource.cache
+G:\Учёба\2 курс\3 сем\КП\КП Бобра Дмитрия\BWTVisualisation\BWTVisualisation\obj\Debug\BWTVisualisation.exe
+G:\Учёба\2 курс\3 сем\КП\КП Бобра Дмитрия\BWTVisualisation\BWTVisualisation\obj\Debug\BWTVisualisation.pdb
