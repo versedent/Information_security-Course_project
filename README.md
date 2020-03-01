@@ -1,1 +1,1 @@
-# Information_security-Course_project
+# Information security - course project of Bobr Dzmitry
